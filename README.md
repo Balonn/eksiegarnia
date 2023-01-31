@@ -6,17 +6,13 @@ E-ksiegarnia to aplikacja internetowa umożliwiająca zarządzanie bazą danych 
 -Dodanie ksiązki
 -Edycja ksiązki
 -usunięcie ksiązki
--
 -Wygenerowanie listy wszystkich książek przy użyciu publicznego API.
 
 
 ## Użyte technologie 🔧
 -axios
-Frontend:
 - React.js
 -Bootstrap
-
-Backend:
 -Node.js
 -Express.js
 -MondgoDB
