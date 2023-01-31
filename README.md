@@ -1,9 +1,8 @@
 ## Opis projektu 
 Projekt wykonali Dawid Balcerczyk oraz Michał Dziurdź.
-E-ksiegarnia to aplikacja internetowa umożliwiająca zarządzanie bazą danych książek oraz udostępniająca listę wszystkich książek. Aplikacja powstała przy uzyciu stosu
-technologicznego MERN.
+E-ksiegarnia to aplikacja internetowa umożliwiająca zarządzanie bazą danych książek oraz zapewniająca dostęp do listy wszystkich książek. Aplikacja powstała przy uzyciu stosu technologicznego MERN.
 
-## Funckjonalności
+## Funkcjonalności
 -Dodanie ksiązki
 -Edycja ksiązki
 -usunięcie ksiązki
